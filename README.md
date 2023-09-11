@@ -1,4 +1,4 @@
-# Data-Analysis-on-World-Happiness-
+# Data-Analysis-on-World-Happiness
 
 Welcome to my World Happiness Data Analysis project, a journey through the intricacies of global well-being, powered by Python. This analysis offers key insights into happiness, GDP, corruption levels, and their interplay across regions.
 
